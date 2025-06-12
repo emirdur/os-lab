@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
